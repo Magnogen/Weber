@@ -30,7 +30,7 @@ After all, people already know it, and its easy to pick up from the many tutoria
 
 ### CSS
 
-CSS could just easily be declared inside a CSS file. It's a pretty easy-to-understand syntax.
+CSS could just be declared inside a CSS file. It's a pretty easy-to-understand syntax.
 Then again, the complexities of CSS are really tough, even for people with experience.
 
 Perhaps an optional JSON file could work instead? Then things like
@@ -73,7 +73,7 @@ which changes the background colour based on if the theme is in dark mode, altho
 }
 ```
 
-Damn, I've really fone overboard with this haven't I? I might end up with something like this but more fleshed out.
+Damn, I've really gone overboard with this haven't I? I might end up with something like this but more fleshed out.
 I should do proper documentation if I end up with something like this.
 
 ### JavaScript
