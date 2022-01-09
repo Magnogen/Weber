@@ -17,7 +17,7 @@ Maybe even a desktop app? Idk that seems a bit unnecessarily complicated. It doe
 
 I know Jekyll exists, but it seems a pain to set up - especially if anyone wants to make a site without any knowledge of the command line.
 (typing commands in a vulnerable place on your pc without knowing what it does seems a bit... yeah.)
-Using the same line of reasoning, downloading apps that could do anything would be a bad idea too...
+Using the same line of reasoning, downloading apps from unknown sources would be a bad idea too...
 
 ## Preliminary details
 
