@@ -4,6 +4,7 @@
 |    :-    |
 | [My thoughts](#My-thoughts) |
 | [Preliminary details](#Preliminary-details) |
+| [Conclusion & Contributions](#Conclusion) |
 
 Weber used to be a custom programming language that compiles to web-langs, but I've decided to use Markdown for the HTML bit now.
 I'm trying to keep things simple, and GitHub already supports `.md` files and renders them to html (just like this file!)
@@ -102,3 +103,15 @@ project/
 |   |   plugins/
 |   |   |   // I might be overthinking it again
 ```
+
+## Conclusion
+
+Yeah this looks like its a lot of small projects - but I'll see how this goes. I might need to trim things down as I need to. Here are my current plans for it:
+- [ ] Markdown to HTML compiler
+- [ ] JSON to CSS compiler
+- [ ] Precompiled CSS using above
+- [ ] ZIP uploading, reading, writing, and downloading in browser
+- [ ] Config options that could be helpful
+- [x] Eat lunch
+
+If you have any suggestions for how I can improve this - I'd really appreciate them! Please feel free to open an issue explaining what could work and I'll give it a go!
