@@ -115,10 +115,17 @@ project/
 ## Conclusion
 
 Yeah this looks like its a lot of small projects - but I'll see how this goes. I might need to trim things down as I need to. Here are my current plans for it:
+- [ ] Folder manipulation in browser 
+  - [ ] Uploading `50%`
+    - [x] Click to upload
+    - [ ] Drag and Drop
+  - [x] Reading
+  - [ ] Writing
+  - [ ] Downloading again (might need `.zip` for this) 
 - [ ] Markdown to HTML compiler
-- [ ] JSON to CSS compiler
-- [ ] Precompiled CSS using above
-- [ ] ZIP uploading, reading, writing, and downloading in browser
+- [ ] Custom JSON to CSS compiler
+  - [ ] Static CSS 
+  - [ ] Precompiled CSS
 - [ ] Config options that could be helpful
 - [x] Eat lunch
 
