@@ -1,7 +1,7 @@
 # Weber
 
 | Contents |
-|    :-    |
+| :- |
 | [My thoughts](#My-thoughts) |
 | [Preliminary details](#Preliminary-details) |
 | [Conclusion & Contributions](#Conclusion) |
