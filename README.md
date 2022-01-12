@@ -116,9 +116,9 @@ project/
 
 Yeah this looks like its a lot of small projects - but I'll see how this goes. I might need to trim things down as I need to. Here are my current plans for it:
 - [ ] Folder manipulation in browser 
-  - [ ] Uploading `50%`
+  - [x] Uploading `100%`
     - [x] Click to upload
-    - [ ] Drag and Drop
+    - [x] Drag and Drop
   - [x] Reading
   - [ ] Writing
   - [ ] Downloading again (might need `.zip` for this) 

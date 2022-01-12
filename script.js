@@ -13,10 +13,10 @@ function apply(object, path, content, char=":") {
 
 $('[upload]').addEventListener('change', async event => {
   var root = {};
-  for (let file of event.target.files) {
+  for (let file of event.target.files)
     root = apply(root, file.webkitRelativePath, file, '/')
-  }
   console.log(root)
+  $('main').innerHTML += '<br>' + JSON.stringify(root, null, '| &nbsp ').replaceAll('\n', '<br>')
 })
 
 $('[upload]').addEventListener('drop', $('[upload]').onchange)
