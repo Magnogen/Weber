@@ -29,6 +29,9 @@ I thought I could do the same here.
 HTML can be a tough nut to crack, but I thought that just copying the Markdown syntax would be a good solution for that.
 After all, people already know it, and its easy to pick up from the many tutorials that are out there.
 
+Markdown has a lot of features damn. I might use a library for this. Any good ideas?
+I *was* thinking of making my own compiler, and then I'd be able to add more features and things, but tbh, that seems like it could be hard, especially for a smaller project like this one. If this gets enough traction, I might consider making a proper Markdown compiler, using my [Elements library](https://github.com/Magnogen/Elements), particularly `Meal`, as it has been very useful thus far.
+
 ### CSS
 
 CSS could just be declared inside a `.css` file. It's a pretty easy-to-understand syntax.
