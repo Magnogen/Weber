@@ -37,7 +37,7 @@ I *was* thinking of making my own compiler, and then I'd be able to add more fea
 CSS could just be declared inside a `.css` file. It's a pretty easy-to-understand syntax.
 Then again, the complexities of CSS are really tough, even for people with experience.
 
-Perhaps an optional `.json` file could work instead? Then things like
+Perhaps an optional `.json` or `.yml` file could work instead? (Yml is very similar in functionality to json, just a different syntax.) Things like
 
 ```json
 {
@@ -125,9 +125,9 @@ Yeah this looks like its a lot of small projects - but I'll see how this goes. I
   - [x] Reading
   - [ ] Writing
   - [ ] Downloading again (might need `.zip` for this) 
-- [ ] Markdown to HTML compiler
+- [ ] Markdown to HTML compiler (find / make)
 - [ ] Custom JSON to CSS compiler
-  - [ ] Static CSS 
+  - [ ] Static CSS
   - [ ] Precompiled CSS
 - [ ] Config options that could be helpful
 - [x] Eat lunch
